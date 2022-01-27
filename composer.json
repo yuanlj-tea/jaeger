@@ -1,5 +1,5 @@
 {
-    "name": "jonahgeorge/jaeger-client-php",
+    "name": "yuanlj-tea/jaeger",
     "description": "Jaeger Bindings for PHP OpenTracing API",
     "keywords": [
         "jaeger",
